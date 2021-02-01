@@ -9,14 +9,14 @@ module.exports = async (phrase) => {
     })
 
     //return JSON.stringify(results.data);
-    let customObjects{
+    let customObject = {
         data: results.data,
             status: results.status,
             statusText: results.statusText,
             headers: results.headers,
             requestHeader: results.config.headers
     }
-    return JSON.stringify(customObjects);
+    return JSON.stringify(customObject);
 }
 
 /*  console.log(results.data);

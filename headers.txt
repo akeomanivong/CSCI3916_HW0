@@ -1,0 +1,39 @@
+User-Agent: PostmanRuntime/7.26.10
+Accept: */*
+Cache-Control: no-cache
+Postman-Token: d79fdc41-37e1-458e-b221-fe73f271dee9
+Host: www.googleapis.com
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Response Headers
+Content-Type: application/json; charset=UTF-8
+Vary: Origin
+Vary: X-Origin
+Vary: Referer
+Content-Encoding: gzip
+Date: Mon, 01 Feb 2021 07:55:13 GMT
+Server: ESF
+Cache-Control: private
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Transfer-Encoding: chunked
+
+User-Agent: Software product used by original client
+Accept: Acceptable media types, languages, and character sets on the client
+Cache-Control: Constrains how clients should be caching the response
+Postman-Token: Randomized token used to avoid collisions and helps distinguish between requests on the server side
+Host: The host of the client
+Accept-Encoding: Which content encoding the client is able to understand
+Connection: Controls whether or not the network connection stays open after the current transaction finishes
+Content-Type: Indicates the media type of the resource
+Vary: Determines how to match future request headers to decide whether a cached response can be used rather than requesting a fresh one from the origin server
+Content-Encoding: Used to compress the media type
+Date: Date and time at which message originated
+Server: Describes software used by origin server that handled the request
+X-XSS-Protection: Indicates if X-XSS-Protection is used, which stops pages from loading when they detect reflected cross-site scripting (XSS) attacks
+X-Frame-Options: Used to indicate whether or not a browser should be allowed to render a page in a <frame>, <iframe>, <embed> or <object>
+X-Content-Type-Options: Marker used by the server to indicate that the MIME types advertised in the Content-Type headers should not be changed and be followed
+Alt-Svc: Used to advertise alternative services through which the same resource can be reached
+Transfer-Encoding: Specifies the form of encoding used to safely transfer the payload body to the user
